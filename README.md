@@ -15,5 +15,6 @@
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=ccbikai&theme=swift&show_icons=true&count_private=true&hide_border=true&include_all_commits=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccbikai&layout=compact&theme=swift&hide_border=true" /> |
-| ------------- | ------------- |
+![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ccbikai&theme=nord_dark)
+
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ccbikai&theme=nord_dark) ![Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ccbikai&theme=nord_dark)
