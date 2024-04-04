@@ -23,6 +23,8 @@
 
 - [Email.ML](https://email.ml/) 极简的一次性邮箱。100% 运行在 Cloudflare 网络中。
 - [DNS.Surf](https://dns.surf/) DNS 分区解析结果查询工具。支持从全球 18 个数据中心查询域名的 DNS 解析结果，可以选择 100+ 不同的 DNS 解析器。
+- [HTTP.IM](https://http.im/) HTTP 请求和响应调试工具，类似 httpbin.org。
+- [HTML.ZONE](https://html.zone/) 一些自用网页小工具（本机 IP、IP 信息查询、WHOIS 查询），单纯用来练手。
 
 ---
 
