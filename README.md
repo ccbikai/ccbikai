@@ -8,6 +8,8 @@
 - 💻 毕业于计算机专业的业余选手
 - 🪐 Self-hosting 爱好者
 - 🛡️ Homelab 理性玩家
+- 🌽 拥有最长的[域名](https://loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ong)
+- 🕸 维护最小的[互联网自治系统](https://bgp.tools/as/215507)
 
 你可以在这里关注我：
 
