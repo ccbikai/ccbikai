@@ -2,7 +2,7 @@
 
 <img align="right" width="512" height="256" src="https://static.miantiao.me/share/2023/wDiISS/home.svg">
 
-<content></content>
+<img src="data:null;," width="100%" height="0" align="left" alt="HR">
 
 - 👨🏻‍💻 专注于前端开发的 Web 开发工程师
 - 💻 毕业于计算机专业的业余选手
