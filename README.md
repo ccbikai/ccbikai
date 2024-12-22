@@ -36,6 +36,11 @@
 * [Cloudflare PyPI Mirror](https:&#x2F;&#x2F;chi.miantiao.me&#x2F;posts&#x2F;cloudflare-pypi-mirror&#x2F;)
 * [Vite SSR 项目 Docker 镜像最小化打包方案](https:&#x2F;&#x2F;chi.miantiao.me&#x2F;posts&#x2F;vite-ssr-docker-image-minimal-build&#x2F;)
 * [BroadcastChannel - 将你的 Telegram Channel 转为微博客](https:&#x2F;&#x2F;chi.miantiao.me&#x2F;posts&#x2F;broadcast-channel&#x2F;)
+* [阿里云 AP8220 刷机教程](https:&#x2F;&#x2F;chi.miantiao.me&#x2F;posts&#x2F;aliyun-ap8220&#x2F;)
+* [使用 Cloudflare Zero Trust 制作 Google Safe Browsing 平替](https:&#x2F;&#x2F;chi.miantiao.me&#x2F;posts&#x2F;google-safe-browsing-alternative&#x2F;)
+* [浏览器本地使用 AI 移除图片背景](https:&#x2F;&#x2F;chi.miantiao.me&#x2F;posts&#x2F;ai-remove-image-background&#x2F;)
+* [Sink - 基于 Cloudflare 带访问统计的短链系统](https:&#x2F;&#x2F;chi.miantiao.me&#x2F;posts&#x2F;sink&#x2F;)
+* [Aria - 一个极简的 Astro 主页模板](https:&#x2F;&#x2F;chi.miantiao.me&#x2F;posts&#x2F;astro-aria&#x2F;)
 <!--END_SECTION:feed-->
 
 ---
