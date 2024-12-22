@@ -16,3 +16,4 @@ jobs:
         with:
           feed-url: https://feed.miantiao.me/
           readme-section: feed
+          max: 10
