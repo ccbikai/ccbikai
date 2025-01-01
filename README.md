@@ -31,6 +31,7 @@
 ## 博客
 
 <!--START_SECTION:feed-->
+* [RSS.Beauty - 让 RSS 变漂亮!](https:&#x2F;&#x2F;chi.miantiao.me&#x2F;posts&#x2F;rss-beauty&#x2F;)
 * [在浏览器中轻松运行 Python 程序](https:&#x2F;&#x2F;chi.miantiao.me&#x2F;posts&#x2F;run-python-in-browser&#x2F;)
 * [使用 Cloudflare Snippets 搭建一个不限流量的 Docker 镜像](https:&#x2F;&#x2F;chi.miantiao.me&#x2F;posts&#x2F;cloudflare-docker-mirror&#x2F;)
 * [Cloudflare PyPI Mirror](https:&#x2F;&#x2F;chi.miantiao.me&#x2F;posts&#x2F;cloudflare-pypi-mirror&#x2F;)
@@ -40,7 +41,6 @@
 * [使用 Cloudflare Zero Trust 制作 Google Safe Browsing 平替](https:&#x2F;&#x2F;chi.miantiao.me&#x2F;posts&#x2F;google-safe-browsing-alternative&#x2F;)
 * [浏览器本地使用 AI 移除图片背景](https:&#x2F;&#x2F;chi.miantiao.me&#x2F;posts&#x2F;ai-remove-image-background&#x2F;)
 * [Sink - 基于 Cloudflare 带访问统计的短链系统](https:&#x2F;&#x2F;chi.miantiao.me&#x2F;posts&#x2F;sink&#x2F;)
-* [Aria - 一个极简的 Astro 主页模板](https:&#x2F;&#x2F;chi.miantiao.me&#x2F;posts&#x2F;astro-aria&#x2F;)
 <!--END_SECTION:feed-->
 
 ---
