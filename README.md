@@ -32,16 +32,16 @@
 ## 博客
 
 <!--START_SECTION:feed-->
-* [用播客的方式听 Hacker News](https:&#x2F;&#x2F;chi.miantiao.me&#x2F;posts&#x2F;hacker-news-podcast&#x2F;)
-* [RSS.Beauty - 让 RSS 变漂亮!](https:&#x2F;&#x2F;chi.miantiao.me&#x2F;posts&#x2F;rss-beauty&#x2F;)
-* [在浏览器中轻松运行 Python 程序](https:&#x2F;&#x2F;chi.miantiao.me&#x2F;posts&#x2F;run-python-in-browser&#x2F;)
-* [使用 Cloudflare Snippets 搭建一个不限流量的 Docker 镜像](https:&#x2F;&#x2F;chi.miantiao.me&#x2F;posts&#x2F;cloudflare-docker-mirror&#x2F;)
-* [Cloudflare PyPI Mirror](https:&#x2F;&#x2F;chi.miantiao.me&#x2F;posts&#x2F;cloudflare-pypi-mirror&#x2F;)
-* [Vite SSR 项目 Docker 镜像最小化打包方案](https:&#x2F;&#x2F;chi.miantiao.me&#x2F;posts&#x2F;vite-ssr-docker-image-minimal-build&#x2F;)
-* [BroadcastChannel - 将你的 Telegram Channel 转为微博客](https:&#x2F;&#x2F;chi.miantiao.me&#x2F;posts&#x2F;broadcast-channel&#x2F;)
-* [阿里云 AP8220 刷机教程](https:&#x2F;&#x2F;chi.miantiao.me&#x2F;posts&#x2F;aliyun-ap8220&#x2F;)
-* [使用 Cloudflare Zero Trust 制作 Google Safe Browsing 平替](https:&#x2F;&#x2F;chi.miantiao.me&#x2F;posts&#x2F;google-safe-browsing-alternative&#x2F;)
-* [浏览器本地使用 AI 移除图片背景](https:&#x2F;&#x2F;chi.miantiao.me&#x2F;posts&#x2F;ai-remove-image-background&#x2F;)
+* [使用 AI 让博客排版更上一个台阶](https:&#x2F;&#x2F;miantiao.me&#x2F;posts&#x2F;ai-blog-typography&#x2F;)
+* [用播客的方式听 Hacker News](https:&#x2F;&#x2F;miantiao.me&#x2F;posts&#x2F;hacker-news-podcast&#x2F;)
+* [RSS.Beauty - 让 RSS 变漂亮!](https:&#x2F;&#x2F;miantiao.me&#x2F;posts&#x2F;rss-beauty&#x2F;)
+* [在浏览器中轻松运行 Python 程序](https:&#x2F;&#x2F;miantiao.me&#x2F;posts&#x2F;run-python-in-browser&#x2F;)
+* [使用 Cloudflare Snippets 搭建一个不限流量的 Docker 镜像](https:&#x2F;&#x2F;miantiao.me&#x2F;posts&#x2F;cloudflare-docker-mirror&#x2F;)
+* [Cloudflare PyPI Mirror](https:&#x2F;&#x2F;miantiao.me&#x2F;posts&#x2F;cloudflare-pypi-mirror&#x2F;)
+* [Vite SSR 项目 Docker 镜像最小化打包方案](https:&#x2F;&#x2F;miantiao.me&#x2F;posts&#x2F;vite-ssr-docker-image-minimal-build&#x2F;)
+* [BroadcastChannel - 将你的 Telegram Channel 转为微博客](https:&#x2F;&#x2F;miantiao.me&#x2F;posts&#x2F;broadcast-channel&#x2F;)
+* [阿里云 AP8220 刷机教程](https:&#x2F;&#x2F;miantiao.me&#x2F;posts&#x2F;aliyun-ap8220&#x2F;)
+* [使用 Cloudflare Zero Trust 制作 Google Safe Browsing 平替](https:&#x2F;&#x2F;miantiao.me&#x2F;posts&#x2F;google-safe-browsing-alternative&#x2F;)
 <!--END_SECTION:feed-->
 
 ---
