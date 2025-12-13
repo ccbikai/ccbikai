@@ -19,14 +19,6 @@
 
 ---
 
-## 折腾的项目
-
-- [Sink.Cool](https://sink.cool/) 基于 Cloudflare 带访问统计的短链系统。
-- [DNS.Surf](https://dns.surf/) DNS 分区解析结果查询工具。支持从全球多个城市查询域名的 DNS 解析结果，可以选择 100+ 不同的 DNS 解析器。
-- [RSS.Beauty](https://rss.beauty/) 让 RSS 变漂亮!
-- [TempMail.Best](https://tempmail.best/) 极简的一次性邮箱。100% 运行在 Cloudflare 网络中。
-- [HTML.ZONE](https://html.zone/) 一些自用网页小工具（本机 IP、IP 信息查询、WHOIS 查询，AI Demo），单纯用来练手。
-
 ## 博客
 
 <!--START_SECTION:feed-->
