@@ -22,6 +22,7 @@
 ## 博客
 
 <!--START_SECTION:feed-->
+* [用 AI Agent 搞了个全自动 AI 周刊](https:&#x2F;&#x2F;miantiao.me&#x2F;posts&#x2F;aigc-weekly&#x2F;)
 * [hink - 只需 10 行代码的短链接系统](https:&#x2F;&#x2F;miantiao.me&#x2F;posts&#x2F;hink&#x2F;)
 * [解密 SSH AI Chat：它是如何运行的](https:&#x2F;&#x2F;miantiao.me&#x2F;posts&#x2F;how-ssh-ai-chat-works&#x2F;)
 * [在 Docker 沙箱中运行 MCP Server](https:&#x2F;&#x2F;miantiao.me&#x2F;posts&#x2F;guide-to-running-mcp-server-in-a-sandbox&#x2F;)
@@ -31,7 +32,6 @@
 * [RSS.Beauty - 让 RSS 变漂亮!](https:&#x2F;&#x2F;miantiao.me&#x2F;posts&#x2F;rss-beauty&#x2F;)
 * [在浏览器中轻松运行 Python 程序](https:&#x2F;&#x2F;miantiao.me&#x2F;posts&#x2F;run-python-in-browser&#x2F;)
 * [使用 Cloudflare Snippets 搭建一个不限流量的 Docker 镜像](https:&#x2F;&#x2F;miantiao.me&#x2F;posts&#x2F;cloudflare-docker-mirror&#x2F;)
-* [Cloudflare PyPI Mirror](https:&#x2F;&#x2F;miantiao.me&#x2F;posts&#x2F;cloudflare-pypi-mirror&#x2F;)
 <!--END_SECTION:feed-->
 
 ---
